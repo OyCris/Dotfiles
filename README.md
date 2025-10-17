@@ -1,8 +1,8 @@
 # Dotfiles Binds Are At The Bottom 
 I developed from the ground up to achieve one thing: a fast, clean, and absolutely distraction-free environment.  If you enjoy a workspace that is keyboard-driven, ultra-dark, and ruthlessly efficient, you'll find what you're looking for here.
 
-
-
+# Pictures Of My Dots are in the folder called pictures 
+--------------------------------------------------------------------------------------------------------
 # My Dot Files (Hyprland / Waybar / Rofi / Fish)
 
 This repository contains the configuration files (dot files) for my Hyprland Wayland environment. It includes custom configs for Waybar, Rofi, Fastfetch, and the Fish shell, designed for speed and style.
