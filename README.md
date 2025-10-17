@@ -116,17 +116,7 @@ Switch Workspace,SUPER + [1-9],workspace [1-9],
 Super + M Log Out of Hyprland
 
 
-
-
-
-
-
-
-
-
-
-
-![Screenshots of my Dots](images/1760733229_grim.png)
+Thats it !
 
 
 
